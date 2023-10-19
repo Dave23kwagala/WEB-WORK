@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Hobby</title>
+</head>
+<body>
+    <h1>My Hobby: Gardening</h1>
+    <p>Welcome to my gardening page. I love spending time in my garden and taking care of my plants.</p>
+    
+    <h2>My Favorite Plants</h2>
+    <ul>
+        <li>Roses</li>
+        <li>Tulips</li>
+        <li>Sunflowers</li>
+    </ul>
+
+    <h2>Garden Photos</h2>
+    <img src="garden1.jpg" alt="My Garden">
+    <img src="garden2.jpg" alt="Another Garden Shot">
+
+    <h2>Garden Tasks</h2>
+    <table>
+        <tr>
+            <th>Task</th>
+            <th>Frequency</th>
+        </tr>
+        <tr>
+            <td>Watering</td>
+            <td>Daily</td>
+        </tr>
+        <tr>
+            <td>Pruning</td>
+            <td>Weekly</td>
+        </tr>
+    </table>
+
+    <a href="about.html">Learn More About Me</a>
+</body>
+</html>
+S
